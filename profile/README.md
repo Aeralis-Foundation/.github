@@ -15,6 +15,8 @@
 <h2 align="left">⠀Divsions </h2>
 
 - [Roblox](https://www.roblox.com/communities/406943622)
+- [Thunderstore](https://thunderstore.io/teams/AeralisFoundation)
+- [Steam](https://steamcommunity.com/groups/AeralisFoundation)
 
 <h2 align="left">⠀ </h2>
 <h2 align="left">⠀ </h2>

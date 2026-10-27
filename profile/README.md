@@ -1,5 +1,5 @@
 [![WAVE_top](https://raw.githubusercontent.com/Aurora-Aeralis/Assets/refs/heads/main/General/WAVE_top-2%20%5BAF%5D.png)](<https://github.com/Aurora-Aeralis>)
-<h1 align="center">Aerlis Foundation</h1>
+<h1 align="center">Aeralis Foundation</h1>
 <h3 align="center">Compact technology studio designing, building, and optimizing software and firmware for businesses and individuals who value quality. Strategy meets execution, without the agency bloat. Results come first.</h3>
 
 ---
